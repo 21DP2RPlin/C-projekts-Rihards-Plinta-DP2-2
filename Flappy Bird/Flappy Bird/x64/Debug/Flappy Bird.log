@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\37126\Desktop\C++ programs\Visual studio programs\Flappy Bird\Flappy Bird\Source.cpp(67,23): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\37126\Desktop\C++ programs\Visual studio programs\Flappy Bird\Flappy Bird\Source.cpp(77,23): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Flappy Bird.vcxproj -> C:\Users\37126\Desktop\C++ programs\Visual studio programs\Flappy Bird\x64\Debug\Flappy Bird.exe
